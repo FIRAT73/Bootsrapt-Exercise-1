@@ -1,0 +1,20 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: 2MRkb+AOqZycTsRUDCBAipgaQTunu
+ 6CjkYUkwTFcl9Q=
+SHA-256-Digest-Manifest: WatkCzPAuM+VRnPme6U7yN+VYD+UXeiQNqXgAbiw6YA=
+Created-By: 1.8.0_45 (Oracle Corporation)
+
+Name: META-INF/maven/com.genuitec.eclipse.theming/com.genuitec.eclipse
+ .theming.elevation.win32/pom.properties
+SHA-256-Digest: UWlgEmcXs5m5YKWAkEIlVRjqt/EO0mKJBmuftO4JbpM=
+
+Name: resources/launcher.exe
+SHA-256-Digest: 6QVd1JQgaaK9at6r7fVHKm+uk/AlwxBp/AHR7GmKDDo=
+
+Name: resources/elevator.exe
+SHA-256-Digest: cUmFDYd8JVbNY4ivZhdZ9nctY6HH6dDQRxVM1AKfQa0=
+
+Name: META-INF/maven/com.genuitec.eclipse.theming/com.genuitec.eclipse
+ .theming.elevation.win32/pom.xml
+SHA-256-Digest: olTxIIsz4i5vp5qtvqI82k2+RVEBIHR8DUVnADOf+io=
+
